@@ -1,6 +1,3 @@
-# vip
-<!DOCTYPE html>
-
 <html lang="vi">
 <head>
 <meta charset="utf-8"/>
