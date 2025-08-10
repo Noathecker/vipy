@@ -1153,5 +1153,4 @@ document.addEventListener('DOMContentLoaded', function(){
 </body>
 </html>
 
-https://github.com/user-attachments/assets/e6c3d7d0-fe79-4e53-80a1-99328e853bdc
 
